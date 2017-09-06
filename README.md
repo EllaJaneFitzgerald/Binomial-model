@@ -1,5 +1,5 @@
 # Binomial-model
-Implementation of the classical binomial model and its modification for the evaluation of stock options with dividends (written on VBA).
+An implementation of the classical binomial model and its modification for the evaluation of stock options with dividends (written in VBA).
 
 The program consists of the following modules:
 1. Positional diagrams,
@@ -15,7 +15,7 @@ The module is designed to create positional diagrams of financial assets such as
 ## Binomial model of options evaluation
 The module is designed for:
 1. Obtaining an evaluation of an option of an arbitrary type for shares with fixed dividends in cash using a binomial model.
-2. A visual representation of the work of the method.
+2. Visual representation of the work of the method.
 
 ![Binomial model: setting parameters](https://pp.userapi.com/c840732/v840732627/35a1/bXBZ3uzsj3Y.jpg)
 
